@@ -2,8 +2,8 @@
 title: Entrapta’s introduction 
 published: 2026-09-14
 description: This is Entrapta’s intro 
-tags: [Test]
-category: Test
+tags: [Intro]
+category: Intro
 draft: false
 ---
 ### Entrapta
